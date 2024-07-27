@@ -1,5 +1,18 @@
-# My Portfolio
+# Primary Portfolio with Raw HTML & CSS
 
-Welcome to my portfolio! Here you can find examples of my work, projects, and experiences.
+This repository contains the code for a simple personal portfolio website built with raw HTML and CSS, showcasing essential web development skills.
 
-You can access my portfolio by following this link: [Portfolio](https://rafid13iit.github.io/)
+## Features
+
+- Clean and minimalist design
+- Responsive layout
+- Easy to customize
+
+## Usage
+
+Clone the repository and open `index.html` in your browser to view the portfolio.
+
+```sh
+git clone https://github.com/Rafid13iit/Primary-portfolio-with-raw-html-css.git
+cd Primary-portfolio-with-raw-html-css
+open index.html
