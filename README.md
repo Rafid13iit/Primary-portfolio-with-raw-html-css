@@ -1,18 +1,5 @@
-# Primary Portfolio with Raw HTML & CSS
+# My Primary Portfolio
 
-This repository contains the code for a simple personal portfolio website built with raw HTML and CSS, showcasing essential web development skills.
+This is my primary portfolio. Though I have made a professional portfolio using Next.js, which you can find in the following repository: [Next.js Portfolio Repository](https://github.com/Rafid13iit/Portfolio).
 
-## Features
-
-- Clean and minimalist design
-- Responsive layout
-- Easy to customize
-
-## Usage
-
-Clone the repository and open `index.html` in your browser to view the portfolio.
-
-```sh
-git clone https://github.com/Rafid13iit/Primary-portfolio-with-raw-html-css.git
-cd Primary-portfolio-with-raw-html-css
-open index.html
+You can visit my primary portfolio at: [https://rafid13iit.github.io/](https://rafid13iit.github.io/)
